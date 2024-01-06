@@ -52,7 +52,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Hey, I'm Alpha MLSA, a passionate and active learner who recently completed the Google Data Analytics course. Motivated by the dynamic world of data, I'm on a journey to leverage insights for innovative solutions. Let's connect and explore the endless possibilities data analytics brings! 🌐✨";
+  "Hey, I'm Microsoft Learn Studnet Ambassador, diving at the ending of Bachelor of Business Administration a passionate and active learner  recently completed the Google Data Analytics course. Motivated by the dynamic world of data, I'm on a journey to leverage insights for innovative solutions. Let's connect and explore the endless possibilities data analytics brings! 🌐✨";
 
 const About = () => {
   return (
